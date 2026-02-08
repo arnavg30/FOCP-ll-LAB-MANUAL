@@ -19,7 +19,7 @@ int main(){
         max=stock[j];
         
     }
-    else if (stock[j]>second_max && stock[j]<max){
+    else if (stock[j]>second_max && stock[j]<max){ 
         second_max=stock[j];
     }
    }
